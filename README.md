@@ -1,11 +1,12 @@
 # hello-world
 hello backwards sounds spanish ;)
 
-Being new to coding, I´m curious whether the course will be a fit for me :O)
-just\n
+Being new to coding, I´m curious whether the course will be a fit for me :O)<br>
+just<br>
 few<br>
-other words
-wait
-sths
-wrong
-here
+other words<br>
+wait<br>
+sths<br>
+still<br>
+wrong<br>
+here<br>
